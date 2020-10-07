@@ -1,0 +1,2 @@
+# Rock-Paper-Scissor-Game
+The game programming is a fun and innovative way to learn coding and basics of data structure and algorithm. The learner gain the basic concepts of coding, like command sequencing, functions and loops, by writing algorithm for these basic games. This is a simple Rock Paper Scissor game that we used to play during our elementary schooling. This is my contribution to my school memories now your turn to do your part and write unique algorithm for any old school game. Keep learning, All the best.
